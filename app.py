@@ -4,7 +4,7 @@ import os
 import tempfile
 
 # Set your LlamaParse API key (alternatively use st.secrets)
-os.environ["LLAMA_CLOUD_API_KEY"] = "<LLAMACLOUD_API_KEY"
+os.environ["LLAMA_CLOUD_API_KEY"] = "llx-wLCQKwtR0xyjaCenecrhMacRN2SNgaMhuykGqPxYImNb1OSc"
 
 # Set page config
 st.set_page_config(page_title="LlamaParse File Extractor", layout="centered")
